@@ -52,7 +52,7 @@ the "Manage Jenkins" -> "Configure System" page.
 		 
    Example "features.xml" file of where feature name and location is derived from:
 	
-		 ![Imgur](http://i.imgur.com/dLZZU65.png)
+   ![Imgur](http://i.imgur.com/dLZZU65.png)
 
 9. Navigate to Scriptler plugin, which should be on the Jenkins home page, and add a new script with Id and Name: Deploy_Features_to_Fuse.groovy
 
