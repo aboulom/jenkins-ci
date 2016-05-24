@@ -1,11 +1,11 @@
 
 jenkins-ci: Demonstrates JBoss Fuse
 ======================================================
-Author: Allen Boulom
-Level: Beginner
-Technologies: Camel, Karaf
+Author: Allen Boulom  
+Level: Beginner  
+Technologies: Camel, Karaf  
 Summary: This project demonstrates how to send files between two camel routes using bundles and features with continuous integration via Jenkins.   
-Target Product: Jenkins 
+Target Product: Jenkins  
 Source: https://github.com/aboulom/jenkins-ci
 
 Plugin Requirements
