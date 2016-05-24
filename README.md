@@ -1,5 +1,5 @@
 
-jenkins-ci: Demonstrates JBoss Fuse
+jenkins-ci: Demonstrates Continuous Integration with Jenkins
 ======================================================
 Author: Allen Boulom  
 Level: Beginner  
